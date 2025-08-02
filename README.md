@@ -47,8 +47,6 @@ This application has also been compiled to an `.exe` executable using PyInstalle
 
 ---
 
-## Folder Structure
-
 
 ## Screenshot
 Main user interface with barcode input and real-time logging table:
