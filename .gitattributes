@@ -1,3 +1,6 @@
-build/panel-kayit/* linguist-vendored
+# Exclude build and dist folders from language stats
+build/* linguist-vendored
 dist/* linguist-vendored
+*.exe linguist-vendored
 *.spec linguist-generated
+*.zip linguist-vendored
